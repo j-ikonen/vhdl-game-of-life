@@ -1,0 +1,4 @@
+# gtkwave dumpfile
+*.ghw
+# work library
+/work

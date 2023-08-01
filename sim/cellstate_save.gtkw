@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Tue Aug  1 15:34:22 2023
+[*]
+[dumpfile] "/home/joonas/Code/vhdl-game-of-life/sim/wave.ghw"
+[dumpfile_mtime] "Tue Aug  1 15:25:32 2023"
+[dumpfile_size] 556
+[savefile] "/home/joonas/Code/vhdl-game-of-life/sim/cellstate_save.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 2229 97
+*-24.169432 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.cellstate_tb.
+[sst_width] 233
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+top.cellstate_tb.change
+top.cellstate_tb.cell
+@29
+#{top.cellstate_tb.nbr[7:0]} top.cellstate_tb.nbr[7] top.cellstate_tb.nbr[6] top.cellstate_tb.nbr[5] top.cellstate_tb.nbr[4] top.cellstate_tb.nbr[3] top.cellstate_tb.nbr[2] top.cellstate_tb.nbr[1] top.cellstate_tb.nbr[0]
+[pattern_trace] 1
+[pattern_trace] 0
