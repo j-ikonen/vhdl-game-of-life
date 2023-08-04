@@ -53,7 +53,7 @@ begin
                 report "case 4 fail: 3 nbr should stay alive"
                 severity error;
        
-        cell <= '0';
+        cell <= '1';
         nbr <= "00100000";
         wait for 10 ns;
             assert change = '1'
